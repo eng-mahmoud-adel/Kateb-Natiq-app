@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    height: calc(100vh - 1.4rem);
+    padding: 1.5rem;
+}
+
+.text {
+    font-size: 1.5rem;
+}
+
+.button {
+    padding: 1rem;
+    font-weight: bolder;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 2rem;
+    border: 1px solid #ccc;
+    /* outline: none; */
+}

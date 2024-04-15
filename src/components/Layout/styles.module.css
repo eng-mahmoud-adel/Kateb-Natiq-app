@@ -1,0 +1,13 @@
+nav {
+    background-color: #ccc;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    padding-block: 1.4rem;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    gap: 5rem;
+}
